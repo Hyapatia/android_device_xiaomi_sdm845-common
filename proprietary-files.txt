@@ -733,7 +733,6 @@ etc/event-log-tags
 etc/fonts.xml
 etc/fs_config_dirs
 etc/fs_config_files
-etc/gps.conf
 etc/gps_debug.conf
 etc/gps_diag.cfg
 etc/group
@@ -1410,7 +1409,6 @@ framework/locksettings.jar
 framework/media_cmd.jar
 framework/microlog4android.jar
 framework/miuipushsdkshared.jar
-framework/miuisdk.jar
 framework/miuistatssdkshared.jar
 framework/miuisystem.jar
 framework/miui-update.jar
