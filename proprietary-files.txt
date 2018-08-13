@@ -6,7 +6,6 @@ etc/permissions/qti_libpermissions.xml
 etc/permissions/qti_permissions.xml
 
 #Unassigned
-bin/hw/android.hidl.allocator@1.0-servicebin/acpi
 bin/am
 bin/applypatch
 bin/appops
@@ -746,7 +745,6 @@ etc/mdbversion
 etc/media_profiles_V1_0.dtd
 etc/miui-spn-conf.xml
 etc/mkshrc
-etc/NOTICE.xml.gz
 etc/nqnfcee_access.xml
 etc/nqnfcse_access.xml
 etc/passwd
