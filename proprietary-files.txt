@@ -1410,7 +1410,6 @@ framework/media_cmd.jar
 framework/microlog4android.jar
 framework/miuipushsdkshared.jar
 framework/miuistatssdkshared.jar
-framework/miuisystem.jar
 framework/miui-update.jar
 framework/monkey.jar
 framework/oem-services.jar
@@ -3068,4 +3067,3 @@ build.prop
 compatibility_matrix.xml
 manifest.xml
 recovery-from-boot.p
-vendor
